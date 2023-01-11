@@ -1,0 +1,5 @@
+export const AUTHENTICATE_USER = "AUTHENTICATE_USER";
+export const AUTHENTICATE_USER_ERROR = "AUTHENTICATE_USER_ERROR";
+
+export const GET_POSTS = "GET_POSTS";
+export const ADD_POST = "ADD_POST";
